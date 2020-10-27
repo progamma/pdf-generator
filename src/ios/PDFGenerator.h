@@ -13,3 +13,5 @@
 - (void) htmlToPDF:(CDVInvokedUrlCommand*)command;
 
 @end
+  
+  solcaz
